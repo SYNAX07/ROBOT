@@ -6,7 +6,7 @@ from SYNAX import app
 
 #--------------------------
 
-MUST_JOIN = "ALLTYPECC"
+MUST_JOIN = "ASHWANI10"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
