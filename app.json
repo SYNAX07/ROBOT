@@ -43,7 +43,7 @@
         "required": true
       },
       "HEROKU_API_KEY": {
-        "description": "Your Heroku account's API key",
+        "description": "Your heroku account's API key",
         "value": "",
         "required": false
       },
