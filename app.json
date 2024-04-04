@@ -1,6 +1,6 @@
 {
     "name": "SYNAX ROBOT",
-    "description": "A telegram music player robot,written in python with Pyrogram and Py-Tgcalls.",
+    "description": "A telegram music player robot,written in python with pyrogram and Py-Tgcalls.",
     "logo": "https://telegra.ph/file/6a7152315ede6b5f92c02.jpg",
     "keywords": [
     "python3",
