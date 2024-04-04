@@ -23,7 +23,7 @@
         "required": true
       },
       "BOT_TOKEN": {
-        "description": "A Bot token from @Botfather",
+        "description": "A bot token from @Botfather",
         "value": "",
         "required": true
       },
