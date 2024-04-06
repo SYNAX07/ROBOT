@@ -1,4 +1,4 @@
-from SYNAX.core.bot import DAXX
+from SYNAX.core.bot import SYNAX
 from SYNAX.core.dir import dirr
 from SYNAX.core.git import git
 from SYNAX.core.userbot import Userbot
