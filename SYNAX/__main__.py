@@ -6,7 +6,7 @@ from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
 from SYNAX import LOGGER, app, userbot
-from SYNAX.core.call import DAXX
+from SYNAX.core.call import SYNAX
 from SYNAX.misc import sudo
 from SYNAX.plugins import ALL_MODULES
 from SYNAX.utils.database import get_banned_users, get_gbanned
