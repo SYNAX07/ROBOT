@@ -40,8 +40,8 @@ async def start(_, msg):
 
 ],
 [
-              InlineKeyboardButton("𝗕𝗔𝗡 𝗔𝗟𝗟︎", url=f"https://github.com/SYNAX07"),
-              InlineKeyboardButton("︎𝗠𝗨𝗦𝗜𝗖", url=f"https://github.com/SYNAX07"),
+              InlineKeyboardButton("BANALL", url=f"https://github.com/SYNAX07"),
+              InlineKeyboardButton("︎MUSIC", url=f"https://github.com/SYNAX07"),
               ],
               [
               InlineKeyboardButton("𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧︎", url=f"https://github.com/SYNAX07"),
