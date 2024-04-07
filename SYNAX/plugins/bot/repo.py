@@ -36,7 +36,7 @@ async def start(_, msg):
           InlineKeyboardButton("OWNER", url="https://t.me/Quantabots"),
           ],
                [
-                InlineKeyboardButton("𝗟𝗜𝗩𝗘 𝗖𝗖", url="https://t.me/Twynkl"),
+                InlineKeyboardButton("LIVE CC", url="https://t.me/Twynkl"),
 
 ],
 [
