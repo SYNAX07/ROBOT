@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","cybersphinx")
+OWNER_USERNAME = getenv("OWNER_USERNAME","ogsnx")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "")
 # --------------------------------------------------------
