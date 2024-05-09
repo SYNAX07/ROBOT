@@ -53,7 +53,7 @@
         "required": false
       },
       "LOGGER_ID": {
-        "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena saale.",
+        "description": "Your Log Group ID, add your boT and promote as an admin with full rights!. Channel ki id mat daal dena saale.",
         "value": "",
         "required": true
       }
