@@ -33,7 +33,7 @@
         "required": true
       },
       "OWNER_ID": {
-        "description": "The user id of user whom you would like to add as owner.",
+        "description": "The user iD of user whom you would like to add as owner.",
         "value": "",
         "required": true
       },
